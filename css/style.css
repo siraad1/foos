@@ -1,0 +1,13 @@
+.awoowe{
+  width: 50%;
+  float: right;
+  background-color: yellow;
+}
+img{
+  width: 50%;
+  float: left;
+  background-color: red;
+}
+p a{
+  font-size: 20px;
+}

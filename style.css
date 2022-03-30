@@ -1,0 +1,29 @@
+.waayeel{
+  background-color: green;
+  color: red;
+}
+.waayeel p{
+  font-size: 50px;
+  font-style: italic;
+  font-family: sans-serif;
+}
+.hooyo{
+  background-color: yellow;
+  color: blue;
+}
+.hooyo span{
+  color: black;
+}
+
+.hooyo p{
+  font-size: 50px;
+  font-style: italic;
+  font-family: sans-serif;
+}
+img{
+  width: 230px;
+  height:230px;
+}
+p a {
+  font-size: 30px;
+}

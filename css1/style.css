@@ -1,0 +1,8 @@
+.toorto{
+  border-left: 12px solid red;
+  border-right: 10px solid green;
+  border-top: 6px dotted yellow;
+  border-bottom: 8px dotted purple;
+  padding: 10px;
+  margin: 10px;
+}
